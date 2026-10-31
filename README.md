@@ -22,15 +22,6 @@ I'm a student who cares less about *how to use* something and more about *how it
 
 <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white" /> <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" /> <img src="https://img.shields.io/badge/Codex-10A37F?style=flat-square" /> <img src="https://img.shields.io/badge/Copilot-1e3a8a?style=flat-square&logo=githubcopilot&logoColor=white" /> <img src="https://img.shields.io/badge/Warp-01A4FF?style=flat-square&logo=warp&logoColor=white" /> <img src="https://img.shields.io/badge/Devin%20Desktop-0B100F?style=flat-square" /> <img src="https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" />
 
-### Projects
-
-| Project | Description |
-|:--|:--|
-| [**ders-takip**](https://github.com/ozcelikcode/ders-takip) | Comprehensive task & study tracker |
-| [**Flow**](https://github.com/ozcelikcode/Flow) | Expense tracking app |
-| [**habit-tracker**](https://github.com/ozcelikcode/habit-tracker) | Habit tracking app |
-| [**local-media-organizer**](https://github.com/ozcelikcode/local-media-organizer) | Local-first duplicate organizer & date fixer for photos/videos |
-
 ### Activity
 
 <div align="center">
