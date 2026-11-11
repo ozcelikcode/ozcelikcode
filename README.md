@@ -36,7 +36,7 @@ I'm a student who cares less about *how to use* something and more about *how it
 
 <img src="https://img.shields.io/badge/VMware%20Workstation%20Pro-607078?style=flat-square&logo=vmware&logoColor=white" /> <img src="https://img.shields.io/badge/VMware%20Fusion-607078?style=flat-square&logo=vmware&logoColor=white" /> <img src="https://img.shields.io/badge/Parallels%20Desktop-CC0000?style=flat-square" /> <img src="https://img.shields.io/badge/UTM-1F6FEB?style=flat-square" /> <img src="https://img.shields.io/badge/VirtualBuddy-6E40C9?style=flat-square" /> <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white" /> <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" /> <img src="https://img.shields.io/badge/Codex-10A37F?style=flat-square" /> <img src="https://img.shields.io/badge/Copilot-1e3a8a?style=flat-square&logo=githubcopilot&logoColor=white" /> <img src="https://img.shields.io/badge/Warp-01A4FF?style=flat-square&logo=warp&logoColor=white" /> <img src="https://img.shields.io/badge/Devin%20Desktop-0B100F?style=flat-square" /> <img src="https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" /> <img src="https://img.shields.io/badge/LM%20Studio-4338CA?style=flat-square&logo=lmstudio&logoColor=white" />
+<!-- <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white" /> <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" /> <img src="https://img.shields.io/badge/Codex-10A37F?style=flat-square" /> <img src="https://img.shields.io/badge/Copilot-1e3a8a?style=flat-square&logo=githubcopilot&logoColor=white" /> <img src="https://img.shields.io/badge/Warp-01A4FF?style=flat-square&logo=warp&logoColor=white" /> <img src="https://img.shields.io/badge/Devin%20Desktop-0B100F?style=flat-square" /> <img src="https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" /> <img src="https://img.shields.io/badge/LM%20Studio-4338CA?style=flat-square&logo=lmstudio&logoColor=white" />
 
 ### Activity
 
@@ -50,3 +50,5 @@ I'm a student who cares less about *how to use* something and more about *how it
 </picture>
 
 </div>
+
+-->
